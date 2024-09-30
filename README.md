@@ -1,6 +1,6 @@
-# aarambh
+# Rajasthan Court Fee Calculator
 
-A new Flutter project.
+A Simple Flutter App For Calculating Court fees on the respective Suit Amount...
 
 ## Getting Started
 
